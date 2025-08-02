@@ -4,8 +4,8 @@ manifest:
       url-base: https://github.com/a-wark
     - name: tri-state
       url-base: https://github.com/dhruvinsh
-    - name: m165437
-      url-base: https://github.com/M165437
+    - name: a-wark
+      url-base: https://github.com/a-wark
   projects:
     - name: zmk
       remote: custom_zmkfirmware
@@ -14,8 +14,8 @@ manifest:
     - name: zmk-tri-state
       remote: tri-state
       revision: main
-    - name: nice-view-gem
-      remote: m165437
-      revision: main
+    - name: nice-view-horizontal
+      remote: a-wark
+      revision: feat/horizontal
   self:
     path: config
