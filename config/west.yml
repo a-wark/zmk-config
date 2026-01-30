@@ -16,6 +16,6 @@ manifest:
       revision: main
     - name: nice-view-horizontal
       remote: a-wark
-      revision: feat/horizontal
+      revision: feat/horizontal2
   self:
     path: config
